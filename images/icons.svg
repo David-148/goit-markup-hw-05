@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
+    <symbol id="icon-tick-vector" viewBox="0 0 40 32">
+<path d="M33.782 1.020c0.691-0.662 1.611-1.027 2.565-1.020s1.869 0.387 2.55 1.059c0.681 0.672 1.076 1.584 1.101 2.543s-0.321 1.891-0.966 2.598l-19.578 24.617c-0.337 0.365-0.743 0.657-1.195 0.86s-0.939 0.312-1.434 0.322c-0.495 0.009-0.986-0.082-1.445-0.268s-0.876-0.463-1.226-0.815l-12.984-13.054c-0.362-0.339-0.652-0.747-0.853-1.201s-0.309-0.944-0.318-1.441 0.082-0.99 0.267-1.451c0.185-0.461 0.461-0.879 0.81-1.231s0.766-0.628 1.224-0.814 0.949-0.277 1.443-0.269c0.494 0.009 0.981 0.118 1.433 0.32s0.858 0.494 1.195 0.857l10.275 10.325 17.042-21.83c0.031-0.038 0.063-0.074 0.098-0.109h-0.005z"></path>
+</symbol>
     <symbol id="icon-icon-telegram" viewBox="0 0 32 32">
       <path fill="#fff" d="m32 2.67-32 15 10.23 3.15L26 8.5 14 21.99h.01H14v7.34l5.74-5.57L27 26l5-23.33z" style="fill:var(--color1, #fff)"/>
     </symbol>
@@ -44,13 +47,6 @@
     </symbol>
     <symbol id="icon-icon-linkedin" viewBox="0 0 32 32">
       <path fill="#f4f4fd" d="M32 32V20.26c0-5.74-1.24-10.16-7.95-10.16-3.23 0-5.39 1.77-6.27 3.45h-.1v-2.92h-6.36V32h6.63V21.42c0-2.79.52-5.48 3.97-5.48 3.4 0 3.45 3.18 3.45 5.66V32H32zM.53 10.64h6.63V32H.53V10.64zM3.84 0C1.72 0 0 1.72 0 3.84s1.72 3.88 3.84 3.88A3.88 3.88 0 0 0 7.7 3.84 3.85 3.85 0 0 0 3.84 0z" style="fill:var(--color6, #f4f4fd)"/>
-    </symbol>
-  </defs>
-</svg>
-<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
-  <defs>
-    <symbol id="icon-vector" viewBox="0 0 32 32">
-      <path stroke-width="2" d="M4 1h24a3 3 0 0 1 3 3v24a3 3 0 0 1-3 3H4a3 3 0 0 1-3-3V4a3 3 0 0 1 3-3z"/>
     </symbol>
   </defs>
 </svg>
